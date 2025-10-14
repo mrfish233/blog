@@ -1,4 +1,5 @@
 ---
+import Footer from '../components/Footer.astro';
 import Navigation from '../components/Navigation.astro';
 import '../styles/global.css';
 
@@ -61,5 +62,6 @@ const textCase   = "uppercase";
 
         {happy && <p>I am happy to be learning Astro!</p>}
         {goal === 3 ? <p>My goal is to finish in 3 days.</p> : <p>My goal is not 3 days.</p>}
+        <Footer />
     </body>
 </html>
