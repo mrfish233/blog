@@ -15,6 +15,6 @@ This is the first post of my blog. You can find this repo below:
 
 ::github{repo="mrfish233/blog"}
 
-This blog is currently work-in-progress! I'll slowly add blog posts that are "scattered" in every places. See you in the next post!
+This blog is currently a work in progress! I'll slowly add blog posts that are "scattered" everywhere. See you in the next post!
 
 🐧️: :spoiler[(๑∙∆∙)★]
