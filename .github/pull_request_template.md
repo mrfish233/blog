@@ -3,6 +3,7 @@
 - [ ] Bug fix (a non-breaking change that fixes an issue)
 - [ ] New feature (a non-breaking change that adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Create/Update a post (a post is being created or updated)
 - [ ] Other (please describe):
 
 ## Checklist
