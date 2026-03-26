@@ -1,7 +1,7 @@
 ---
 title: First Post
 published: 2026-03-23
-updated: 2026-03-23
+updated: 2026-03-26
 description: 'Welcome to LunaTerra'
 image: ''
 tags: [LunaTerra]
