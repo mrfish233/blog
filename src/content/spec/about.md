@@ -31,7 +31,7 @@ This is the repo for this site! It's a static website built with [Astro](https:/
 
 ::github{repo="mrfish233/interactive-fiction-engine"}
 
-::github{repo="mrfish233/EduAi"}
+::github{repo="NTNU-SoftwareEngineering/EduAi"}
 
 ## Hobbies
 
